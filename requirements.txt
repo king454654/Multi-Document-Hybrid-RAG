@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+tavily-python
+pypdf
+tiktoken
+langchain_groq
+langchain_huggingface
+langchain_core
+sentence-transformers
